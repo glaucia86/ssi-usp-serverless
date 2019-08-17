@@ -2,7 +2,7 @@
 
 [![imagem.png](https://i.postimg.cc/Jn1wKxwm/imagem.png)](https://postimg.cc/Lq008z60)
 
-Repositório responsável pela demo do evento online **[Semana de Sistemas de Informação - USP Lest](http://ssi.dasiusp.com)**
+Repositório responsável pela demo do evento: **[Semana de Sistemas de Informação - USP Lest](http://ssi.dasiusp.com)**
 
 ## Recursos Utilizados 🚀
 
