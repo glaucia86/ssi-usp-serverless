@@ -41,7 +41,7 @@ Abre a browser em: `http://localhost:7071/api/students` e pronto! Executará o s
 
 Durante a live, comentei sobre importantes documentações, links e recursos que podem auxiliar o seu conhecimento sobre Serverless & Azure Functions
 
-- **[Link dos Slides da Palestra](https://aka.ms/AA5u7ek)**
+- ✅ **[Link dos Slides da Palestra](https://aka.ms/AA5u7ek)**
 - ✅ **[Azure para devs JavaScript & Node.js](https://docs.microsoft.com/pt-br/javascript/azure/?WT.mc_id=ssiuspserverless-github-gllemos&view=azure-node-latest)**
 - ✅ **[Documentação Azure Functions](https://docs.microsoft.com/pt-br/azure/azure-functions/?WT.mc_id=ssiuspserverless-github-gllemos)**
 - ✅ **[Criando a sua Primeira Função no Visual Studio Code](https://docs.microsoft.com/pt-br/azure/azure-functions/functions-create-first-function-vs-code?WT.mc_id=ssiuspserverless-github-gllemos)**
