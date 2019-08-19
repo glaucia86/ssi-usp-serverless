@@ -1,4 +1,4 @@
-# Demo Palestra: Ganhe mais Produtividade Criando Projetos Serverless com Visual Studio Code & Node.js 
+# Demo Palestra: Ganhe mais Produtividade Criando Projetos Serverless com Visual Studio Code & Node.js - SSI USP LESTE
 
 [![imagem.png](https://i.postimg.cc/Jn1wKxwm/imagem.png)](https://postimg.cc/Lq008z60)
 
